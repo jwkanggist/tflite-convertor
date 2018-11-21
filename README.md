@@ -1,2 +1,2 @@
-# tflite-converter
-a custom converter 
+# tflite-convertor
+custom tflite converter 
